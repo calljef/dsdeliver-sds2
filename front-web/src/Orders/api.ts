@@ -1,3 +1,4 @@
+import { OrderPayload } from './types';
 import axios from "axios";
 
 import Axios from 'axios';
@@ -11,4 +12,8 @@ export function fetchProducts() {
 
 export function fetchLocalMapBox(local: string) {
   return Axios(`https://api.mapbox.com/geocoding/v5/mapbox.places/${local}.json?access_token=${mapboxToken}`)
+}
+
+export function saveOrder(payload: OrderPayload) {
+  return Axios.post(`${API_URL}/orders`, payload);
 }
