@@ -1,6 +1,4 @@
 import { OrderPayload } from './types';
-import axios from "axios";
-
 import Axios from 'axios';
 
 const API_URL = 'http://localhost:8080';
