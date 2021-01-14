@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img alt="DS Delivery" title="#DS Delivery" src="./assets/banner.png" />
+    <img alt="DS Delivery" title="#DS Delivery" src="./folder/web.png" />
 </h1>
 
 <h4 align="center"> 
@@ -32,10 +32,9 @@ A Semana DevSuperior  é uma hands-on online com muito conteúdo prático, todo 
 ## 🚀 Demonstração da aplicação
 
 <a target="_blank" href="https://sds2-jeferson.netlify.app/">
- <img style="border-radius: 50%;" src="#" width="100px; alt="Netlify"/>
+ <img src="./folder/netlify.svg" width="100px; alt="Netlify"/>
+ <img src="./folder/heroku-icon.svg" width="100px; alt="Heroku"/> 							    						    
 </a>
-
-https://sds2-jeferson.netlify.app/
 
 ---
 
@@ -60,15 +59,13 @@ O layout da aplicação
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
+  <img alt="mobile image" title="#mobile Image" src="./folder/home-mobil.png">
 </p>
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.png" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.png" width="400px">
+<p align="center">
+  <img alt="Web image" title="#Web Image" src="./folder/sucesso-web.png">
 </p>
 
 ---
